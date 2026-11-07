@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.libvirt/commit/a820e65d210ec7690bf4ca3852ba72ecdcd76477",
       "git:hexsha": "a820e65d210ec7690bf4ca3852ba72ecdcd76477",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.libvirt/commit/0e7873a9e167617969f5d2673daef770632df39e",
