@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.libvirt",
+  "versions": [
+    {
+      "commit": "a820e65d210ec7690bf4ca3852ba72ecdcd76477",
+      "tag": "",
+      "parsed_at": "2026-11-07T16:35:15.935610+00:00"
+    }
+  ]
+}
